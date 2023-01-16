@@ -1,0 +1,51 @@
+.geral{
+    width: 700px;
+}
+.cabecalhos {
+}
+.primeiraCab{
+    margin-right: 140px;
+    background-color: rgb(246, 60, 153);
+}
+.segundoCab{
+    margin-left: 130px;
+    background-color: rgb(246, 60, 153);
+}
+.terceiroCab{
+    margin-right: 50px;
+    background-color: rgb(246, 60, 153);
+}
+.quartoCab{
+    margin-left: 30px;
+    background-color: rgb(246, 60, 153);
+}
+.rotina{
+    height: 250px;
+    float: left;
+    margin-left: 40px;
+    width: 230px;
+    background-color: blue;
+}
+.hobbies{
+    height: 250px;
+    margin-right: 30px;
+    float: right;
+    width: 230px;
+    background-color: green;
+}
+.artistasPreferidos{
+    height: 250px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 100px;
+    width: 230px;
+    background-color:green;
+}
+.viagens{
+    height: 250px;
+    float: right;
+    margin-top: 100px;
+    margin-right: 30px;
+    width: 230px;
+    background-color:  blue;
+}
